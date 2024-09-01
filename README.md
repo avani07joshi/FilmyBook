@@ -1,5 +1,5 @@
 # FilmyBook
-movie-booking-app/
+FilmyBook_flow/
 ├── backend/
 │   ├── controllers/
 │   ├── models/
